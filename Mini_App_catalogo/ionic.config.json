@@ -1,0 +1,7 @@
+{
+  "name": "Mini_App_catalogo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
